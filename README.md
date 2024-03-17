@@ -1,2 +1,2 @@
-# redme file
+# Readme file
 # Readme file
